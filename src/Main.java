@@ -24,6 +24,7 @@ public class Main {
 
         System.out.println(System.currentTimeMillis() - a);
 
+        //Проверка содержимого массива
         for (int i = 0; i < 5; i++) {
             System.out.println(arr[i]);
         }
@@ -65,6 +66,7 @@ public class Main {
 
         System.out.println(System.currentTimeMillis() - a);
 
+        //Проверка содержимого массива
         for (int i = 0; i < 5; i++) {
             System.out.println(arr[i]);
         }
