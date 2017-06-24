@@ -10,7 +10,7 @@ public class Main {
     }
 
     public static void first(){
-        final int size = 10;
+        final int size = 10000000;
         float[] arr = new float[size];
         for (int i = 0; i < size; i++) {
             arr[i] = 1;
@@ -36,7 +36,7 @@ public class Main {
     }
 
     public static void second(){
-        final int size = 10;
+        final int size = 10000000;
         final int half = size / 2;
         float[] arr = new float[size];
         float[] arr0 = new float[half];
